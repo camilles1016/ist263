@@ -1,4 +1,15 @@
-<head>
-    <title>Titles are required.</title>
-    <link rel="stylesheet" href="/path/styles.css">
-</head>
+body {
+    background-color:lemonchiffon;}
+
+p {color:rgb(243, 189, 225);}
+.boldred { color: red;font-weight: bold;}
+
+body {Georgia, serif;}
+body title, p { color: darkblue; }
+
+.special {color: purple}
+
+.evenrow {background-color: burlywood; }
+
+h1 {font-size: 40px; }
+h2 {font-size: 20px; }
