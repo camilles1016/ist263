@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Unit 8 Flexbox</title>
+        <meta charset="UTF-8">
+        <style>
+            body {background-color: #999999; font-family:Georgia, 'Times New Roman', Times, serif;}
+            img {width: 150px;}
+            /* footer colors background is #000c54, text is #c9cbd0 */
+            .row1, .row2 {display: flex; /* display flex goes on the row container */}
+            /* vvv this is a descendant selector, it selects all its divs inside the div */
+            .row2 div {flex: 1; /* how much space is this column taking up */ 
+                        padding: 20px;}
+            .sealcol {flex: 2; /* flex 2 means the seal column gets more space */
+                    padding: 30px;}
+            .otherrow1cols {flex: 1; padding: 30px;}
+            footer {background-color: #000c54; color:#c9cbd0; }
+        </style>
+    </head>
+    <body>
+    <!-- footer is a semantic container-->
+    <footer>
+        <div class="row1">
+            <div class="sealcol">
+                <img src="https://www.syracuse.edu/assets-static/carbon_v1/img/syracuse-university-seal-white.svg">
+
+                <hr>
+
+                <p> 
+                Syracuse University <br>
+                900 South Crouse Ave. <br>
+                Syracuse, NY 13210
+                </p>
+                <p> 
+                    Phone: +1.315.443.1870
+                </p>
+            </div>
+    <div class="otherrow1cols">
+            <p>
+            <strong>Popular</strong><br>
+            Academic Calendar<br> 
+            Campus Map<br>
+            Careers<br>
+            Libraries<br> 
+            Majors and Minors<br>
+            Visits and Tours
+            </p>
+    <div class="otherrow1cols">
+        <p>
+            <strong> A-Z</strong> <br>
+            Find People <br> 
+            Academic Departments <br>
+            Schools and Colleges <br>
+            Site map <br>
+            Search
+        </p>
+    </div>
+    <div class="otherrow1cols">
+    <p> 
+        <strong> Contact </strong> <br>
+        Admissions <br>
+        Financial Aid <br> 
+        Emergency Contacts <br>
+        Website Feedback <br>
+        Make a Gift
+    </p>
+    </div>
+    <div class="otherrow1cols">
+        <p>
+            <strong>Login</strong><br>
+            MySlice<br>
+            BlackBoard<br>
+            Student Email<br>
+            Faculty and Staff Email
+        </p>
+    </div>
+    </footer>
+
+    </body>
+    </html>
