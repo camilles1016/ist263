@@ -47,7 +47,7 @@ body {margin: 15px 30px 60px 75px;}
 
 .centeredtext {text-align: center; color: #8267BE;}
 
-.skillsrow {display: flex; flex-basis: auto; justify-content: space-between;}
-.skillsrow2 { background-color: rgb(202, 179, 179); height: 30vh; width: 50vh; padding: 1em; margin: 10vh auto: 0; border-radius: 15px;
-   justify-content: end; }
-.fb2 {display: flex; justify-content: space-between;}
+.skillsrow {display: flex; flex: 1.5; justify-content: space-between; margin-top: 100px;}
+.skillsrow2 { background-color: rgb(202, 179, 179); height: 250px; width: 65px; padding: 1em; margin: 10px auto: 0; border-radius: 15px;
+   flex: 0.5; margin-left: 50px;}
+.fb2 {display: flex; justify-content: space-around;}
