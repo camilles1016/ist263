@@ -47,7 +47,7 @@ body {margin: 15px 30px 60px 75px;}
 
 .centeredtext {text-align: center; color: #8267BE;}
 
-.skillsrow {display: flex;}
+.skillsrow {display: flex; flex-basis: auto; justify-content: space-between;}
 .skillsrow2 { background-color: rgb(202, 179, 179); height: 30vh; width: 50vh; padding: 1em; margin: 10vh auto: 0; border-radius: 15px;
    justify-content: end; }
-.fb2 {display: flex; }
+.fb2 {display: flex; justify-content: space-between;}
