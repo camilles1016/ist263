@@ -1,0 +1,53 @@
+body {
+    background-color: #F0ECE3;}
+{color: #000000}
+p {color: #694E4E;}
+.special {color: #8267BE;}
+a:visited {color: #8267BE;}
+a:link {color: #502064;}
+a:hover {color: #A68DAD;}
+nav {background-color: #DFD3C3;}
+nav a {color:#DFD3C3;}
+nav a:hover {background-color:#F0ECE3;}
+nav {padding: 10px;}
+nav {margin-bottom: 30px;}
+.img1 {float: left; margin-right: 10px;}
+.clear{clear: both;}
+
+.copyright {float: left; text-align: left;}
+.quote {float: right; text-align: right;}
+.footer {position: fixed; bottom: 0; left: 0; width: 100%; height: 90px;}
+h3 {font-size: 14px; height: 50px;}
+h3 {font-weight: lighter;}
+
+
+.part2 {display: flex;}
+.part2 article {padding: 20px;}
+.article1, .article2, .article3 {margin: 10px;}
+.article1 {flex: 2; order: 3; background-color: #cce5ff; border-radius: 1em;}
+.artcle2 {flex: 1; order: 2;}
+.artcle3 {flex: 1; order: 1;}
+
+.row1 {display: flex;}
+.row1 div {flex: 1; padding: 2px;}
+.otherrowcols1 {margin-right: 50px;}
+.row1 {display: inline-flex; flex-wrap: wrap;}
+
+
+.form1 {display: flex;}
+.form1 div {flex: 1; padding: 2px;}
+.form1 {margin-right: 50px; }
+.form1 {display: inline-flex; flex-wrap: wrap;}
+
+body {margin: 15px 30px 60px 75px;}
+
+.row1 {background-color: rgb(202, 179, 179); height: 75vh; width: 75vh; padding: 2em; margin: 50vh auto: 0; border-radius: 25px;}
+
+.form1 {background-color: rgb(202, 179, 179); height: 70vh; width: 150vh; padding: 2em; margin: 50vh auto: 0; border-radius: 25px;}
+
+.centeredtext {text-align: center; color: #8267BE;}
+
+.skillsrow {display: flex;}
+.skillsrow2 { background-color: rgb(202, 179, 179); height: 30vh; width: 50vh; padding: 1em; margin: 10vh auto: 0; border-radius: 15px;
+   justify-content: end; }
+.fb2 {display: flex; }
