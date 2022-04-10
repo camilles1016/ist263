@@ -53,6 +53,6 @@ body {margin: 15px 30px 60px 75px;}
    flex: 0.5; margin-left: 50px;}
 .fb2 {display: flex; justify-content: space-around;}
 
-.personalpic {max-width: 100%;}
+.img1 {max-width: 100%;}
 nav a {display: block;} @media only screen and (min-width: 786px) and (max-width : 1024px) 
 .pipe {display: none;}
