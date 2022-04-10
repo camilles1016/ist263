@@ -29,8 +29,9 @@ h3 {font-weight: lighter;}
 .artcle3 {flex: 1; order: 1;}
 
 .row1 {display: flex;}
+.row1 div {flex: 1; padding: 2px;}
 .otherrowcols1 {margin-right: 50px;}
-.row1 {flex-wrap: wrap;}
+.row1 {display: inline-flex; flex-wrap: wrap;}
 
 
 .form1 {display: flex;}
@@ -42,4 +43,14 @@ body {margin: 15px 30px 60px 75px;}
 
 .row1 {background-color: rgb(202, 179, 179); padding: 2em; margin: 50px auto: 0; border-radius: 25px;}
 
-.form1 {background-color: rgb(202, 179, 179); height: 70vh; width: 150vh; padding: 2em; margin: 50vh auto: 0; border-radius: 25px;}
+.form1 {background-color: rgb(202, 179, 179); padding: 2em; margin: 50px auto: 0; border-radius: 25px;}
+
+.centeredtext {text-align: center; color: #8267BE;}
+
+.skillsrow {display: flex; flex: 1.5; justify-content: space-between; margin-top: 100px;}
+.skillsrow2 { background-color: rgb(202, 179, 179); height: 250px; width: 65px; padding: 1em; margin: 10px auto: 0; border-radius: 15px;
+   flex: 0.5; margin-left: 50px;}
+.fb2 {display: flex; justify-content: space-around;}
+
+.personalpic {max-width: 100%;}
+nav {display: block;} @media only screen and (max-width: 100%)
