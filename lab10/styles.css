@@ -38,6 +38,7 @@ h3 {font-weight: lighter;}
 .form1 div {flex: 1; padding: 2px;}
 .form1 {margin-right: 50px; }
 .form1 {display: inline-flex; flex-wrap: wrap;}
+.form1 {flex-wrap: wrap;}
 
 body {margin: 15px 30px 60px 75px;}
 
@@ -53,4 +54,5 @@ body {margin: 15px 30px 60px 75px;}
 .fb2 {display: flex; justify-content: space-around;}
 
 .personalpic {max-width: 100%;}
-nav {display: block;} @media only screen and (max-width: 100%)
+nav a {display: block;} @media only screen and (min-width: 786px) and (max-width : 1024px) 
+.pipe {display: none;}
