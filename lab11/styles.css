@@ -1,7 +1,7 @@
 body {
     background-color: #F0ECE3;}
 {color: #000000}
-p {color: #694E4E;}
+p {color: black;}
 .special {color: #8267BE;}
 a:visited {color: #8267BE;}
 a:link {color: #502064;}
@@ -56,4 +56,3 @@ body {margin: 15px 30px 60px 75px;}
 .img1 {max-width: 100%;}
 nav a {display: block;} @media only screen and (min-width: 786px) and (max-width : 1024px) 
 .pipe {display: none;}
-
