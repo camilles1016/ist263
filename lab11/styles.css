@@ -30,7 +30,7 @@ h3 {font-weight: lighter;}
 
 .row1 {display: flex;}
 .row1 div {flex: 1; padding: 2px;}
-.otherrowcols1 {margin-right: 50px;}
+.otherrowcols1 {margin-right: 50px; color: black;}
 .row1 {display: inline-flex; flex-wrap: wrap;}
 
 
@@ -49,7 +49,7 @@ body {margin: 15px 30px 60px 75px;}
 .centeredtext {text-align: center; color: #8267BE;}
 
 .skillsrow {display: flex; flex: 1.5; justify-content: space-between; margin-top: 100px;}
-.skillsrow2 { background-color: rgb(202, 179, 179); height: 250px; width: 65px; padding: 1em; margin: 10px auto: 0; border-radius: 15px;
+.skillsrow2 { background-color: rgb(202, 179, 179); color: black; height: 250px; width: 65px; padding: 1em; margin: 10px auto: 0; border-radius: 15px;
    flex: 0.5; margin-left: 50px;}
 .fb2 {display: flex; justify-content: space-around;}
 
