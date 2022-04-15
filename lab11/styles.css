@@ -56,3 +56,16 @@ body {margin: 15px 30px 60px 75px;}
 .img1 {max-width: 100%;}
 nav a {display: block;} @media only screen and (min-width: 786px) and (max-width : 1024px) 
 .pipe {display: none;}
+
+#skip-to-content {
+    height: 30px;
+    left: 50%;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-100%);
+    transition: transform 0.3s;
+  }
+  
+  #skip-to-content:focus {
+    transform: translateY(0%);
+  }
