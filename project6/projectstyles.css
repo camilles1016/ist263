@@ -1,0 +1,7 @@
+.container {display: flex; justify-content: center; justify-content: space-between; margin: 100px 100px 25px; font-family: 'Montserrat', sans-serif;} 
+.smallbox {flex-basis: 100px; height: 50px; margin: 5px; width: 200px; flex-grow: 1; }
+main {text-align: center;}
+nav {text-align: center; background-color: #e8d7f7; padding: 35px; width: 100%; font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: bold;} 
+h2 {margin: 100px; font-size: 30px}
+p {margin: 100px; font-size: 20px; font-style: italic;}
+.footer {display: block;}
