@@ -5,3 +5,4 @@ nav {text-align: center; background-color: #e8d7f7; padding: 35px; width: 100%; 
 h2 {margin: 100px; font-size: 30px}
 p {margin: 100px; font-size: 20px; font-style: italic;}
 .footer {display: block;}
+body {padding-bottom: 40px;}
