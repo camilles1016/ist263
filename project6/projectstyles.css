@@ -1,4 +1,4 @@
-.container {display: flex; margin: 100px 100px 25px; font-family: 'Montserrat', sans-serif; align-items: center;} 
+.container {display: flex; margin: 0px 100px 25px; font-family: 'Montserrat', sans-serif; align-items: center;} 
 main {text-align: center; background-color: #ffffff;} 
 .footer-basic {
     padding:40px 0;
@@ -64,10 +64,60 @@ nav {display: flex;
 
 
 
-h2 {margin: 100px; font-size: 30px; font-family: 'Times New Roman', Times, serif }
-p {margin: 100px; font-size: 20px; font-family: 'Times New Roman', Times, serif;}
+h2 {margin: 60px; margin-left: 120px; font-size: 30px; font-family: 'Times New Roman', Times, serif }
+p {margin: 20px; font-size: 20px; font-family: 'Times New Roman', Times, serif;}
+.excerpt {margin-left: 120px;}
 .footer {display: block;}
 body {padding-bottom: 100px; background-color: #f2e8fa;}
 .odesza {margin-top: 120px;}
-.playlist {margin-top: 120px;}
-.artists {margin-top: 60px;}
+.playlistpicture {margin-top: 120px;}
+.lastmonth {padding: 40px;}
+.thismonth2 {padding: 40px;}
+
+
+.artists {margin-bottom: 20px;}
+.artistlist {margin-bottom: 80px;}
+.top3 {margin-bottom: 20px;}
+.top3list {margin-bottom: 80px;}
+.personal {margin-bottom: 20px;}
+.playlistlist {margin-bottom: 160px;}
+
+
+.thismonthartist {margin-bottom: 20px;}
+.thismonthlist {margin-bottom: 80px;}
+.favsongs {margin-bottom: 20px;}
+.favsonglist {margin-bottom: 40px;}
+.playlist {margin-bottom: 20px;}
+.playlistlist2 {margin-bottom: 160px;}
+
+
+
+/* SECOND PAGE */ 
+
+.container2 {display: flex; 0px 100px 25px; font-family: 'Montserrat', sans-serif;}
+.page2pics {text-align: center; background-color: ##f2e8fa; margin-left: 100px}
+.descriptions {margin-left: 100px; margin-right: 100px;}
+
+.odesza2 {margin-bottom: 60px;}
+.louisthechild {margin-bottom: 60px;}
+.omarapollo {margin-bottom: 60px;}
+.SZA {margin-bottom: 60px;}
+.rexorangecounty {margin-bottom: 60px;}
+.diplo {margin-bottom: 60px;}
+
+.lastgoodbye {margin-bottom: 25px; margin-top: 70px; font-weight: bold; font-size: 25px;}
+.lastgoodbye2 {margin-bottom: 60px;} 
+.blowtheroof {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px;}
+.blowtheroof2 {margin-bottom: 60px;}
+.invincible {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px;}
+.invincible2 {margin-bottom: 60px;}
+.ihateu {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px;}
+.ihateu2 {margin-bottom: 60px;}
+.amazing {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px;}
+.amazing2 {margin-bottom: 60px;}
+.dontforgetmylove {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px;}
+.dontforgetmylove2 {margin-bottom: 60px;}
+
+
+
+
