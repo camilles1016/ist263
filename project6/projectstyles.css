@@ -1,5 +1,6 @@
-.container {display: flex; margin: 0px 100px 25px; align-items: center;} 
-main {text-align: center; background-color: #ffffff;} 
+.container {display: flex; margin: 0px 100px 25px; align-items: center; } 
+main {text-align: center; background-color: #ffffff;}
+
 .footer-basic {
     padding:40px 0;
     background-color:white;
@@ -50,8 +51,8 @@ main {text-align: center; background-color: #ffffff;}
   
 nav {display: flex; 
     background-color: #e8d7f7;
+    font-family: 'Quicksand', sans-serif; font-size: 20px; font-weight: bold;
     justify-content: space-between;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px; font-weight: bold;
     justify-content: space-around;
     padding: 30px;
     text-decoration:none;
@@ -74,37 +75,37 @@ nav {display: flex;
 
 
 
-h2 {margin: 60px; margin-left: 120px; font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h2 {margin: 60px; margin-left: 120px; font-size: 30px; font-family: 'Quicksand', sans-serif;}
 p {margin: 20px; font-size: 20px; font-family: 'Times New Roman', Times, serif;}
 .excerpt {margin-left: 120px;}
 .footer {display: block;}
 body {padding-bottom: 100px; background-color: #f2e8fa;}
-.odesza {margin-top: 120px;}
+.odesza {margin-top: 120px; }
 .playlistpicture {margin-top: 120px;}
 .lastmonth {padding: 40px;}
 .thismonth2 {padding: 40px;}
 
 
-.artists {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.artists {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .artistlist {margin-bottom: 80px; font-family: 'Times New Roman', Times, serif;}
-.top3 {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.top3 {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .top3list {margin-bottom: 80px; font-family: 'Times New Roman', Times, serif;}
-.personal {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.personal {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .playlistlist {margin-bottom: 160px; font-family: 'Times New Roman', Times, serif;}
 
 
-.thismonthartist {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.thismonthartist {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .thismonthlist {margin-bottom: 80px; font-family: 'Times New Roman', Times, serif;}
-.favsongs {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.favsongs {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .favsonglist {margin-bottom: 40px; font-family: 'Times New Roman', Times, serif;}
-.playlist {margin-bottom: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.playlist {margin-bottom: 20px; font-family: 'Quicksand', sans-serif;}
 .playlistlist2 {margin-bottom: 160px; font-family: 'Times New Roman', Times, serif;}
 
 
 
 /* SECOND PAGE */ 
 
-.container2 {display: flex; 0px 100px 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.container2 {display: flex; 0px 100px 25px; font-family: 'Quicksand', sans-serif;}
 .page2pics {text-align: center; background-color: ##f2e8fa; margin-left: 100px}
 .descriptions {margin-left: 100px; margin-right: 100px;}
 
@@ -115,26 +116,43 @@ body {padding-bottom: 100px; background-color: #f2e8fa;}
 .rexorangecounty {margin-bottom: 60px;}
 .diplo {margin-bottom: 60px;}
 
-.lastgoodbye {margin-bottom: 25px; margin-top: 70px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.lastgoodbye {margin-bottom: 25px; margin-top: 70px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .lastgoodbye2 {margin-bottom: 60px;} 
-.blowtheroof {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.blowtheroof {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .blowtheroof2 {margin-bottom: 60px; }
-.invincible {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.invincible {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .invincible2 {margin-bottom: 60px;}
-.ihateu {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.ihateu {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .ihateu2 {margin-bottom: 60px;}
-.amazing {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.amazing {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .amazing2 {margin-bottom: 60px; }
-.dontforgetmylove {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.dontforgetmylove {margin-top: 200px; margin-bottom: 25px; font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
 .dontforgetmylove2 {margin-bottom: 60px;}
 
 
 /* PAGE 3 */
 
-.calvinharrisbox {display: flex; margin: 0px 100px 25px; font-family: Verdana, Geneva, Tahoma, sans-serif; align-items: center; margin-top: 50px;}
-.ifyouliketitle {margin-left: 60px; margin-top: 60px; font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif;}
-.thenyoullliketitle {margin-left: 60px; margin-top: 60px; margin-bottom: 40px; font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.calvinharrisbox {display: flex; margin: 0px 100px 25px; font-family: 'Quicksand', sans-serif; align-items: center; margin-top: 50px;}
+.ifyouliketitle {margin-left: 60px; margin-top: 60px; font-weight: bold; font-family: 'Quicksand', sans-serif;}
+.thenyoullliketitle {margin-left: 60px; margin-top: 60px; margin-bottom: 40px; font-weight: bold; font-family: 'Quicksand', sans-serif;}
 .firstlist {margin-left: 40px; margin-top: 40px;}
 .chickentenders {margin-bottom: 100px;}
 li {padding: 8px; font-family: 'Times New Roman', Times, serif; font-size: 18px;}
-.songtitle {font-weight: bold; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.songtitle {font-weight: bold; font-size: 25px; font-family: 'Quicksand', sans-serif;}
+
+ 
+@media screen and (max-width: 800px) {
+.banner {display: none;}
+.container {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+
+.container2 {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+
+.calvinharrisbox {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+.firstlist {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+.secondlist {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+.thirdlist {flex-flow: column wrap; margin-left: auto; margin-right: auto;}
+
+}
+
+
+
